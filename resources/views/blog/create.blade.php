@@ -48,10 +48,10 @@
             class="bg-transparent block border-b-2 w-full h-20 text-2xl outline-none">
 
         <textarea
-            name="description"
-            placeholder="Description..."
+            name="body"
+            placeholder="Body..."
             class="py-20 bg-transparent block border-b-2 w-full h-60 text-xl outline-none"></textarea>
-
+            
         <div class="bg-grey-lighter py-10">
             <label class="w-44 flex flex-col items-center px-2 py-3 bg-white-rounded-lg shadow-lg tracking-wide uppercase border border-blue cursor-pointer">
                     <span class="mt-2 text-base leading-normal">
